@@ -1,0 +1,8 @@
+
+new_user,pwd
+abc,123
+qwe,123
+qwe,123
+nyx,sad
+qwe,qwe
+q,q
